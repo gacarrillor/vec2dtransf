@@ -1,0 +1,16 @@
+exportPattern("^[[:alpha:]]+")
+import(sp,methods)
+
+exportMethods(
+    "applyTransformation",
+    "calculateParameters",
+    "getParameters",
+    "getResiduals",
+    "getRMSE",
+    "plotGridTransformation",
+    "show" 
+)
+exportClasses(
+    "SimilarityTransformation",
+    "AffineTransformation"
+)
