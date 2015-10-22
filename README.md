@@ -5,7 +5,7 @@ A package for applying affine and similarity transformations on vector spatial d
 
 Visit vec2dtransf in CRAN: https://cran.r-project.org/web/packages/vec2dtransf/index.html 
 
-# Installation
+### Installation
 Run in R:
 ```R
 install.packages("vec2dtransf")
