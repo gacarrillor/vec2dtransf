@@ -1,5 +1,7 @@
 exportPattern("^[[:alpha:]]+")
 import(sp,methods)
+importFrom("graphics", "legend", "points")
+importFrom("stats", "coef", "lm")
 
 exportMethods(
     "applyTransformation",
