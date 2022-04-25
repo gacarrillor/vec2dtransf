@@ -1,7 +1,7 @@
 Package: vec2dtransf
 Type: Package
 Title: 2D Cartesian Coordinate Transformation
-Version: 1.1
+Version: 1.1.1
 Date: 2012-04-09
 Author: German Carrillo
 Maintainer: German Carrillo <geotux_tuxman@linuxmail.org>
@@ -14,3 +14,5 @@ Collate: Class-Cartesian2DCoordinateTransformation.R
     SimilarityTransformation-methods.R 
     AffineTransformation-methods.R
 Depends: sp, methods
+URL: https://github.com/gacarrillor/vec2dtransf
+BugReports: https://github.com/gacarrillor/vec2dtransf/issues
