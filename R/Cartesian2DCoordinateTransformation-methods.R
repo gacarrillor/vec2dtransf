@@ -39,7 +39,7 @@ setMethod("getResiduals","Cartesian2DCoordinateTransformation",
    			return("Residuals cannot be calculated. You must provide control points first.")
 		if (nrow(object@residuals) == 0 && ncol(object@controlPoints) > 0)
 			return("Residuals are unknown. You may need to call 'calculateParameters' first.")
-        if (object@residuals == 0 && length(object@parameters) > 0)
+        if (all(object@residuals == 0) && length(object@parameters) > 0)
    			return("Residuals are all zero. There are not redundant control points to apply Least Squares.")
 		return(object@residuals)
 	}
