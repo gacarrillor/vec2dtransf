@@ -1,7 +1,14 @@
+[![](https://www.r-pkg.org/badges/version/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
+[![CRAN checks](https://cranchecks.info/badges/summary/vec2dtransf)](https://cran.r-project.org/web/checks/check_results_vec2dtransf.html)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
+[![](http://cranlogs.r-pkg.org/badges/last-month/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
+[![](http://cranlogs.r-pkg.org/badges/last-week/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
+[![](https://img.shields.io/github/languages/code-size/gacarrillor/vec2dtransf.svg)](https://github.com/gacarrillor/vec2dtransf)
+
 # vec2dtransf
 2D Cartesian Coordinate Transformation
 
-A package for applying affine and similarity transformations on vector spatial data (sp objects). Transformations can be defined from control points or directly from parameters. If redundant control points are provided Least Squares is applied allowing to obtain residuals and RMSE.
+Applies affine and similarity transformations on vector spatial data (sp objects). Transformations can be defined from control points or directly from parameters. If redundant control points are provided Least Squares is applied allowing to obtain residuals and RMSE.
 
 Visit vec2dtransf in CRAN: https://cran.r-project.org/web/packages/vec2dtransf/index.html 
 
