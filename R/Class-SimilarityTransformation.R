@@ -1,7 +1,7 @@
 ### SimilarityTransformation class ###
 ## Similarity transformations can be written as:
-##      x’ = ax + by + c
-##      y’ = ay - bx + d
+##      x' = ax + by + c
+##      y' = ay - bx + d
 setClass("SimilarityTransformation",
 	representation(),
 	contains = "Cartesian2DCoordinateTransformation",

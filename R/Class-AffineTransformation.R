@@ -1,7 +1,7 @@
 ### AffineTransformation class ###
 ## Affine transformations can be written as:
-##      x’ = ax + by + c
-##      y’ = dx + ey + f
+##      x' = ax + by + c
+##      y' = dx + ey + f
 setClass("AffineTransformation",
 	representation(),
 	contains = "Cartesian2DCoordinateTransformation",
