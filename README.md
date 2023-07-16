@@ -1,5 +1,5 @@
 [![](https://www.r-pkg.org/badges/version/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
-[![CRAN checks](https://cranchecks.info/badges/summary/vec2dtransf)](https://cran.r-project.org/web/checks/check_results_vec2dtransf.html)
+[![CRAN checks](https://badges.cranchecks.info/summary/vec2dtransf.svg)](https://cran.r-project.org/web/checks/check_results_vec2dtransf.html)
 [![](http://cranlogs.r-pkg.org/badges/grand-total/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
 [![](http://cranlogs.r-pkg.org/badges/last-month/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
 [![](http://cranlogs.r-pkg.org/badges/last-week/vec2dtransf?color=green)](https://cran.r-project.org/package=vec2dtransf)
