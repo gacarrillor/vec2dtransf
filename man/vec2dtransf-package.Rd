@@ -11,14 +11,6 @@
     applied allowing to obtain residuals and RMSE.
 }
 \details{
-\tabular{ll}{
-Package: \tab vec2dtransf\cr
-Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2012-04-09\cr
-License: \tab GPL (>= 2)\cr
-Depends: \tab sp\cr
-}
 This package helps to define a transformation object (either similarity or 
 affine) from control points or directly from parameters. Similarity 
 transformations can rotate, shift and scale geometries whereas affine 
