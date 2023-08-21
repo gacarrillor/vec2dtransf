@@ -1,4 +1,5 @@
 \name{vec2dtransf-package}
+\alias{vec2dtransf-package}
 \alias{vec2dtransf}
 \alias{show}
 \docType{package}
