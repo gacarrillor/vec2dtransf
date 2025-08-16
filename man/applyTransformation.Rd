@@ -33,7 +33,7 @@ applyTransformation(object, sp.object)
 }
 \author{German Carrillo}
 \seealso{
-\code{\link{sp}}, \code{\link{calculateParameters}}, \cr 
+\code{\link[sp]{sp}}, \code{\link{calculateParameters}}, \cr 
 \code{\link{SimilarityTransformation-class}}, \cr
 \code{\link{AffineTransformation-class}}
 }

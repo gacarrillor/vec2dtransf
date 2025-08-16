@@ -3,6 +3,11 @@ Type: Package
 Title: 2D Cartesian Coordinate Transformation
 Version: 1.1.3
 Date: 2023-08-22
+BugReports: https://github.com/rspatial/raster/issues/
+Authors@R: c(
+	person("German", "Carrillo", role = c("cre", "aut"),
+                   email = "geotux_tuxman@linuxmail.org")
+    )
 Author: German Carrillo
 Maintainer: German Carrillo <geotux_tuxman@linuxmail.org>
 Description: Applies affine and similarity transformations on vector spatial data (sp objects). Transformations can be defined from control points or directly from parameters. If redundant control points are provided Least Squares is applied allowing to obtain residuals and RMSE.
