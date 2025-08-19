@@ -1,3 +1,7 @@
+# vec2dtransf 1.1.4
+
+  + Minor fixes for HTML links in documentation (suggested by Kurt H).
+
 # vec2dtransf 1.1.3
 
   + Minor fixes to package documentation (suggested by Kurt H).
