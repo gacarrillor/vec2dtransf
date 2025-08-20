@@ -1,8 +1,8 @@
 Package: vec2dtransf
 Type: Package
 Title: 2D Cartesian Coordinate Transformation
-Version: 1.1.4
-Date: 2025-08-19
+Version: 1.1.5
+Date: 2025-08-20
 BugReports: https://github.com/rspatial/raster/issues/
 Authors@R: c(
 	person("German", "Carrillo", role = c("cre", "aut"),
