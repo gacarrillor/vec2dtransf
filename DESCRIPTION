@@ -8,7 +8,7 @@ Authors@R: c(
 	person("German", "Carrillo", role = c("cre", "aut"),
                    email = "geotux_tuxman@linuxmail.org")
     )
-Author: German Carrillo
+Author: German Carrillo [cre, aut]
 Maintainer: German Carrillo <geotux_tuxman@linuxmail.org>
 Description: Applies affine and similarity transformations on vector spatial data (sp objects). Transformations can be defined from control points or directly from parameters. If redundant control points are provided Least Squares is applied allowing to obtain residuals and RMSE.
 License: GPL (>= 2)
